@@ -5,7 +5,7 @@ I am a Full Stack Developer in Canada.
 - 🔍 I follow various forums and influencers to stay up to date with new and emerging technology.
 
 # 🌐 How to reach me:
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/evan-liko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 
 # 💻 Tech Stack:
 <div>
