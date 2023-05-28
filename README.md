@@ -5,7 +5,7 @@ I am a Full Stack Developer in Canada.
 - 🔍 I follow various forums and influencers to stay up to date with new and emerging technology.
 
 # 🌐 How to reach me:
-<a href="https://www.linkedin.com/in/evan-liko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><a>
+<a href="https://www.linkedin.com/in/evan-liko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # 💻 Tech Stack:
 <div>
@@ -55,18 +55,3 @@ I am a Full Stack Developer in Canada.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
-
-<!--
-**liko0007/liko0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
